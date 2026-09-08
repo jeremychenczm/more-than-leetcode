@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0706-design-hashmap) |
 | [0716-max-stack](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0716-max-stack) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Doubly-Linked List
 |  |
