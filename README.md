@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0776-split-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0776-split-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0776-split-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0776-split-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
+| [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
