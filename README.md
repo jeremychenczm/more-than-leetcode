@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0279-perfect-squares) |
 | [0877-stone-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -965,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
 | [0776-split-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0776-split-bst) |
