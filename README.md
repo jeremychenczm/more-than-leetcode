@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1128,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
