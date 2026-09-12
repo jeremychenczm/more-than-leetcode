@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
