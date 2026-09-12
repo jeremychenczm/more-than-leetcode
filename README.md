@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0621-task-scheduler) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -980,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 | [0776-split-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0776-split-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -1383,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 ## Combinatorics
@@ -1435,4 +1440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
