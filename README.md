@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0359-logger-rate-limiter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0496-next-greater-element-i) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -1173,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
