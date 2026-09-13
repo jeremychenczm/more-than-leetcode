@@ -979,6 +979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2235-add-two-integers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
