@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1628-design-an-expression-tree-with-evaluate-function](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1628-design-an-expression-tree-with-evaluate-function) |
+| [1672-richest-customer-wealth](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1929-concatenation-of-array) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1672-richest-customer-wealth) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2965-find-missing-and-repeated-values](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
