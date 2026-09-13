@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1095-find-in-mountain-array) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1094-car-pooling) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
