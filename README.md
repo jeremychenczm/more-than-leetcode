@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2707-extra-characters-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3731-find-missing-elements) |
+| [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3904-smallest-stable-index-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
