@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3731-find-missing-elements) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -920,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -934,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
