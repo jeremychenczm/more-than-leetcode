@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3731-find-missing-elements) |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
