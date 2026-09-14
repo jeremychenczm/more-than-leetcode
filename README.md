@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
+| [0835-image-overlap](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0867-transpose-matrix) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
+| [0835-image-overlap](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0994-rotting-oranges) |
 | [1672-richest-customer-wealth](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1672-richest-customer-wealth) |
