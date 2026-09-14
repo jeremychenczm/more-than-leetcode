@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1386-cinema-seat-allocation](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1612-check-if-two-expression-trees-are-equivalent](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1612-check-if-two-expression-trees-are-equivalent) |
 | [1740-find-distance-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1740-find-distance-in-a-binary-tree) |
 | [2013-detect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/2013-detect-squares) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
@@ -975,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1405-longest-happy-string) |
 | [2405-optimal-partition-of-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
