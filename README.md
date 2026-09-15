@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
@@ -1222,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1871-jump-game-vii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3903-smallest-stable-index-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
