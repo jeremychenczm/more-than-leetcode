@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0071-simplify-path) |
