@@ -3,12 +3,12 @@ class Solution:
         n = len(s)
         if n <= 1:
             return s
-            
+
         dp = [[False] * n for _ in range(n)]
         for i in range(n):
             dp[i][i] = True
 
-        max_len = start = 0
+        max_len, start = 1, 0
         for i in range(n - 1, -1, -1):
             for j in range(i + 1, n):
                 if s[i] == s[j]:
