@@ -1569,5 +1569,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
