@@ -9,7 +9,7 @@ class Solution:
             # 先查队列头部元素是否超出窗口
             if dq and dq[0] <= i - k:
                 dq.popleft()
-            # 维护单调递增队列
+            # 维护单调递减队列
             while dq and nums[dq[-1]] < nums[i]:
                 dq.pop()
             dq.append(i)
