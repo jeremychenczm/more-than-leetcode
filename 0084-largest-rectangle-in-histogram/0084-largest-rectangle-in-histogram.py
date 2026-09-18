@@ -4,7 +4,7 @@ class Solution:
         # 由此推出要维护一个单调递增序列，然后不断弹栈结算栈内元素
         st = []
         n = len(heights)
-        ans = -1
+        ans = 0
 
         for i in range(n + 1):
             # cur_h作为比较元素，来确认栈内元素是否要结算
