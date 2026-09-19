@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0811-subdomain-visit-count](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0811-subdomain-visit-count) |
 | [0827-making-a-large-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0835-image-overlap) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0827-making-a-large-island) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0867-transpose-matrix) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
 | [0742-closest-leaf-in-a-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0742-closest-leaf-in-a-binary-tree) |
 | [0752-open-the-lock](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0827-making-a-large-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -958,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0827-making-a-large-island) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -1269,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/1046-last-stone-weight) |
@@ -1545,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0486-predict-the-winner) |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1578,4 +1586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0032-longest-valid-parentheses) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
