@@ -1,35 +1,46 @@
-from collections import deque
+from collections import defaultdict
 class Solution:
     def swimInWater(self, grid: list[list[int]]) -> int:
         n = len(grid)
-        if n == 1:
-            return grid[0][0]
 
+        pos = defaultdict(tuple)
+        for i in range(n):
+            for j in range(n):
+                val = grid[i][j]
+                pos[val] = (i, j)
+
+        size = n * n
+        parent = list(range(size))
+        rank = [0] * size
+        def find(x):
+            while parent[x] != x:
+                parent[x] = parent[parent[x]]
+                x = parent[x]
+            return x
+        def union(x, y):
+            rx, ry = find(x), find(y)
+            if rx == ry:
+                return
+            if rank[rx] < rank[ry]:
+                rx, ry = ry, rx
+            parent[ry] = rx
+            if rank[rx] == rank[ry]:
+                rank[rx] += 1
+
+        visited = [[False] * n for _ in range(n)]
         DIRS = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+        for t in range(size):
+            x, y = pos[t]
+            visited[x][y] = True
+            idx = x * n + y 
+            for dx, dy in DIRS:
+                nx, ny = x + dx, y + dy
+                if 0 <= nx < n and 0 <= ny < n and visited[nx][ny]:
+                    union(idx, nx * n + ny)
+            if find(0) == find(size - 1):
+                return t
         
-        def can_reach(t):
-            if grid[0][0] > t:
-                return False
-            visited = [[False] * n for _ in range(n)]
-            visited[0][0] = True
+        return size - 1
 
-            q = deque([(0, 0)])
-            while q:
-                x, y = q.popleft()
-                if x == n - 1 and y == n - 1:
-                    return True
-                for dx, dy in DIRS:
-                    nx, ny = x + dx, y + dy
-                    if 0 <= nx < n and 0 <= ny < n and not visited[nx][ny] and grid[nx][ny] <= t:
-                        visited[nx][ny] = True
-                        q.append((nx, ny))
-            return False
-
-        l, r = 0, n * n - 1
-        while l < r:
-            mid = (l + r) // 2
-            if can_reach(mid):
-                r = mid
-            else:
-                l = mid + 1
-        return l
+        
