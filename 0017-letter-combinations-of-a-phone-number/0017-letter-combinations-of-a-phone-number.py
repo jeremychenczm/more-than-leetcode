@@ -1,22 +1,27 @@
-MAPPING = ['', '', 'abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
-
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        ans = []
-        n = len(digits)
+        letters = {
+            '2': 'abc',
+            '3': 'def',
+            '4': 'ghi',
+            '5': 'jkl',
+            '6': 'mno',
+            '7': 'pqrs',
+            '8': 'tuv',
+            '9': 'wxyz',
+        }
 
-        def dfs(path, start):
-            if len(path) == n:
+        def bt(i, path):
+            if i == len(digits):
                 ans.append(''.join(path))
                 return
-
-            number = digits[start]
-            letters = MAPPING[int(number)]
-            for c in letters:
+            
+            for c in letters[digits[i]]:
                 path.append(c)
-                dfs(path, start+1)
+                bt(i + 1, path)
                 path.pop()
 
-        dfs([], 0)
+        ans = []
+        bt(0, [])
         return ans
-            
+        
