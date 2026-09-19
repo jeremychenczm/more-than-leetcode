@@ -1,5 +1,11 @@
 class Solution:
-    def maxSubArray(self, nums: List[int]) -> int:
-        for i in range(1, len(nums)):
-            nums[i] += max(nums[i - 1], 0)
-        return max(nums)
+    def maxSubArray(self, nums: list[int]) -> int:
+        cur_sum = nums[0]
+        ans = nums[0]
+
+        # 要嘛连续累加要嘛从当前元素为起点开始计算
+        for num in nums[1:]:
+            cur_sum = max(num, cur_sum + num)
+            ans = max(ans, cur_sum)
+
+        return ans
