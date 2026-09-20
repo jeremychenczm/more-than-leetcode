@@ -22,3 +22,18 @@ class Solution:
 
                 if len(res) == k:
                     return res
+
+"""
+import heapq
+from collections import Counter
+
+class Solution:
+    def topKFrequent(nums, k):
+        count = Counter(nums)
+        heap = []
+        for num, freq in count.items():
+            heapq.heappush(heap, (freq, num))
+            if len(heap) > k:
+                heapq.heappop(heap)
+        return [num for freq, num in heap]
+"""
