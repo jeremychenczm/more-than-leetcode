@@ -1,34 +1,38 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
+    def solveNQueens(self, n: int) -> list[list[str]]:
+        self.ans = []
+        self.n = n
         queens = [-1] * n
-        ans = []
-        self.backtrack(queens, ans, n, 0)
-        return ans
+        self.bt(queens, 0)
+        return self.ans
 
-    def backtrack(self, queens: List[int], ans: List[List[str]], n: int, row: int) -> None:
-        if row == n:
-            ans.append(self.build(queens))
+    def bt(self, queens, row_idx):
+        # 每行都设置好皇后
+        if row_idx == self.n:
+            self.ans.append(self.build(queens))
             return
-
-        for col in range(n):
-            if self.isValid(queens, row, col):
-                queens[row] = col
-                self.backtrack(queens, ans, n, row + 1)
-                queens[row] = -1
-
-    def isValid(self, queens: List[int], row: int, col: int) -> bool:
-        for i in range(row):
-            if queens[i] == col:
+        
+        # 放置皇后
+        for col_idx in range(self.n):
+            if self.isvalid(queens, row_idx, col_idx):
+                queens[row_idx] = col_idx
+                self.bt(queens, row_idx + 1)  # 放置下一行
+                queens[row_idx] = -1  # 回溯
+        
+    
+    def isvalid(self, queens, row_idx, col_idx):
+        for i in range(row_idx):
+            if queens[i] == col_idx:
                 return False
-            if abs(row - i) == abs(col - queens[i]):
+            if abs(row_idx - i) == abs(col_idx - queens[i]):
                 return False
         return True
 
-    def build(self, queens: List[int]) -> List[str]:
+    
+    def build(self, queens):
         board = []
-        n = len(queens)
-        for i in range(n):
-            row_arr = ['.'] * n
-            row_arr[queens[i]] = 'Q'
+        for i in range(self.n):
+            row_arr = ["."] * self.n
+            row_arr[queens[i]] = "Q"
             board.append(''.join(row_arr))
         return board
