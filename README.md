@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0231-power-of-two) |
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0050-powx-n) |
