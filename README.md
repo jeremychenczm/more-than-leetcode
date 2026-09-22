@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2974-minimum-number-game) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3731-find-missing-elements) |
@@ -1465,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Queue
 |  |
 | ------- |
