@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0279-perfect-squares) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0212-word-search-ii) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
