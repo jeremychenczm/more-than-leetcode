@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0285-inorder-successor-in-bst](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0285-inorder-successor-in-bst) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0310-minimum-height-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0333-largest-bst-subtree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0333-largest-bst-subtree) |
 | [0337-house-robber-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0337-house-robber-iii) |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
 | [0279-perfect-squares](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0286-walls-and-gates) |
+| [0310-minimum-height-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
@@ -1008,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0261-graph-valid-tree) |
+| [0310-minimum-height-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0310-minimum-height-trees) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0684-redundant-connection) |
@@ -1021,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/Jeremy-dev666/more-than-leetcode/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/Jeremyzmchen/more-than-leetcode/tree/master/2050-parallel-courses-iii) |
 ## Greedy
